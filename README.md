@@ -25,7 +25,7 @@
 
 <img width="45%" align="right" alt="GitHub Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <ul>
-<li> Visit my very own website: <a href="https://github.com/sayak-12" target="_blank">
+<li> Visit my very own website: <a href="https://myself-sayak-raha.netlify.app/" target="_blank">
     https://myself-sayak-raha.netlify.app/
   </a> </li>
   <li> 💬 Let's Discuss about Full Stack Web Development | JavaScript | Node.js | Firebase | MERN | Data Structures | Algorithms </li>
