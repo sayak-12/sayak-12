@@ -121,7 +121,7 @@
 
 ## 🏆 Github Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=noobchirag69&theme=monokai&margin-w=15&margin-h=15&column=5&no-bg=true&rank=-B,-?,-C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sayak-12&theme=monokai&margin-w=15&margin-h=15&column=5&no-bg=true&rank=-B,-?,-C)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Profile Statistics
 
